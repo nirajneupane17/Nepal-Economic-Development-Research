@@ -88,6 +88,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 | # | District | Province | Key Produces | Export Markets |
 |---|---|---|---|---|
 | [01](districts/01_Bhojpur/) | **Bhojpur** | Koshi | Akabare Chili · Khukuri · Cardamom · Eco-Tourism | India · USA · UK · Canada · EU |
+| [02](districts/02_Dhankuta/) | **Dhankuta** | Koshi | Citrus · Orthodox Tea · Ginger · Eco-Tourism | India · Germany · Japan · USA · EU |
 
 ---
 
