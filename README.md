@@ -96,7 +96,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 | # | District | Belt | Key Anchors | Status |
 |---|---|---|---|---|
 | 01 | [Bhojpur](districts/01_Bhojpur/) | Hill | Chili · Khukuri · Lower Arun 679 MW | ✅ |
-| 02 | Dhankuta | Hill | Education hub · citrus · tea · services | 🔜 |
+| 02 | [Dhankuta](districts/02_Dhankuta/README.md) | Hill | Citrus · Orthodox Tea · Ginger · Hile corridor | ✅ |
 | 03 | Ilam | Hill | Tea · eco-tourism · dairy · spices | 🔄 |
 | 04 | Jhapa | Terai | Tea · logistics · industry · agro-processing | 🔄 |
 | 05 | Khotang | Hill | Mid-hill agri · tourism · medicinal herbs | 🔄 |
