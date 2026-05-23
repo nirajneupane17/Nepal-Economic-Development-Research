@@ -20,7 +20,7 @@ All 77 districts across 7 provinces. Each profile covers income sources, infrast
 | # | District | Belt | Key Anchors | Status |
 |---|---|---|---|---|
 | 01 | [Bhojpur](01_Bhojpur/README.md) | Hill | Akabare chili · Khukuri · Lower Arun hydro | ✅ |
-| 02 | Dhankuta | Hill | Education hub · citrus · tea · services | 🔄 |
+| 02 | [Dhankuta](districts/02_Dhankuta/README.md) | Hill | Citrus · Orthodox Tea · Ginger · Hile corridor | ✅ |
 | 03 | Ilam | Hill | Tea · tourism · dairy · spices | 🔄 |
 | 04 | Jhapa | Terai | Tea · logistics · industry · agro-processing | 🔄 |
 | 05 | Khotang | Hill | Mid-hill agriculture · tourism · herbs | 🔄 |
