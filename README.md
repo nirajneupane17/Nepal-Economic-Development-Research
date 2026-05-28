@@ -89,6 +89,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 |---|---|---|---|---|
 | [01](districts/01_Bhojpur/) | **Bhojpur** | Koshi | Akabare Chili · Khukuri · Cardamom · Eco-Tourism | India · USA · UK · Canada · EU |
 | [02](districts/02_Dhankuta/) | **Dhankuta** | Koshi | Citrus · Orthodox Tea · Ginger · Eco-Tourism | India · Germany · Japan · USA · EU |
+| [03](districts/03_Ilam/) | **Ilam** | Koshi | Orthodox Tea · Cardamom · Akabare Chili · Tea Tourism | Germany · Japan · USA · UK · India |
 
 ---
 
@@ -98,7 +99,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 |---|---|---|---|---|
 | 01 | [Bhojpur](districts/01_Bhojpur/) | Hill | Chili · Khukuri · Lower Arun 679 MW | ✅ |
 | 02 | [Dhankuta](districts/02_Dhankuta/README.md) | Hill | Citrus · Orthodox Tea · Ginger · Hile corridor | ✅ |
-| 03 | Ilam | Hill | Tea · eco-tourism · dairy · spices | 🔄 |
+| 03 | [Ilam](districts/03_Ilam/README.md) | Hill | Orthodox Tea · Cardamom · Akabare Chili · Eco-Tourism | ✅ |
 | 04 | Jhapa | Terai | Tea · logistics · industry · agro-processing | 🔄 |
 | 05 | Khotang | Hill | Mid-hill agri · tourism · medicinal herbs | 🔄 |
 | 06 | Morang | Terai | Biratnagar industry · trade · finance | 🔄 |
