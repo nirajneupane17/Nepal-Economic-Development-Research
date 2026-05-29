@@ -4,7 +4,7 @@
 
 **District-by-district economic mapping — 77 districts · 165 constituencies**
 
-[![Districts](https://img.shields.io/badge/Districts_Covered-1_of_77-0d6efd?style=flat-square)](districts/)
+[![Districts](https://img.shields.io/badge/Districts_Covered-3_of_77-0d6efd?style=flat-square)](districts/)
 [![Language](https://img.shields.io/badge/Language-English_|_नेपाली-dc3545?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-MIT-198754?style=flat-square)](LICENSE)
 [![Data](https://img.shields.io/badge/Data-World_Bank_|_CBS_Nepal_|_MoF_2026-6c757d?style=flat-square)](#data-sources)
