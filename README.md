@@ -245,6 +245,6 @@ Nepal-Economic-Development-Research/
 
 [![GitHub](https://img.shields.io/badge/GitHub-nirajneupane17-181717?style=flat-square&logo=github)](https://github.com/nirajneupane17)
 
-*Last updated: May 2026 · Data cutoff: April 2026*
+*Last updated: June 2026 · Data cutoff: April 2026*
 
 </div>
