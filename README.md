@@ -92,6 +92,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 | [03](districts/03_Ilam/) | **Ilam** | Koshi | Orthodox Tea · Cardamom · Akabare Chili · Tea Tourism | Germany · Japan · USA · UK · India |
 | [04](districts/04_Jhapa/) | **Jhapa** | Koshi | CTC Tea · Industrial Park · Medical Tourism · Agro-processing | India · Bangladesh · Western wellness markets |
 | [05](districts/05_Khotang/) | **Khotang** | Koshi | Halesi Pilgrimage · Medicinal Herbs · Cardamom · Trek Gateway | India · China · Europe · USA (herbal markets) |
+| [06](districts/06_Morang/) | **Morang** | Koshi | Jute Mill Revival · Industrial Corridor · Finance Hub | India · EU · Bangladesh (sustainable packaging) |
 
 ---
 
@@ -104,7 +105,7 @@ This research maps all **77 districts** and **165 constituencies** with:
 | 03 | [Ilam](districts/03_Ilam/README.md) | Hill | Orthodox Tea · Cardamom · Akabare Chili · Eco-Tourism | ✅ |
 | 04 | [Jhapa](districts/04_Jhapa/README.md) | Terai | CTC Tea · Damak Industrial Park · Medical Tourism · Agro-processing | ✅ |
 | 05 | [Khotang](districts/05_Khotang/README.md) | Hill | Halesi Pilgrimage · Medicinal Herbs · Cardamom · Trek Gateway | ✅ |
-| 06 | Morang | Terai | Biratnagar industry · trade · finance | 🔄 |
+| 06 | [Morang](districts/06_Morang/README.md) | Terai | Jute Mill Revival · Industrial Corridor · Finance Hub · Medical Tourism | ✅ |
 | 07 | Okhaldhunga | Hill | Specialty coffee · citrus · small hydro | 🔄 |
 | 08 | Panchthar | Hill | Cardamom · tea · niche coffee | 🔄 |
 | 09 | Sankhuwasabha | Mountain | Arun hydro · eco-tourism · herbs | 🔄 |

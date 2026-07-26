@@ -6,14 +6,14 @@ All 77 districts across 7 provinces. Each profile covers income sources, infrast
 
 | Province | Districts | Complete | Upcoming |
 |---|---|---|---|
-| Koshi | 14 | 5 | 9 |
+| Koshi | 14 | 6 | 8 |
 | Madhesh | 8 | — | 8 |
 | Bagmati | 13 | — | 13 |
 | Gandaki | 11 | — | 11 |
 | Lumbini | 12 | — | 12 |
 | Karnali | 10 | — | 10 |
 | Sudurpaschim | 9 | — | 9 |
-| **Total** | **77** | **5** | **72** |
+| **Total** | **77** | **6** | **71** |
 
 ## Koshi Province
 
@@ -24,7 +24,7 @@ All 77 districts across 7 provinces. Each profile covers income sources, infrast
 | 03 | [Ilam](03_Ilam/README.md) | Hill | Orthodox Tea · Cardamom · Akabare Chili · Eco-Tourism | ✅ |
 | 04 | [Jhapa](04_Jhapa/README.md) | Terai | CTC Tea · Damak Industrial Park · Medical Tourism · Agro-processing | ✅ |
 | 05 | [Khotang](05_Khotang/README.md) | Hill | Halesi Pilgrimage · Medicinal Herbs · Cardamom · Trek Gateway | ✅ |
-| 06 | Morang | Terai | Biratnagar industry · trade · finance | 🔄 |
+| 06 | [Morang](06_Morang/README.md) | Terai | Jute Mill Revival · Industrial Corridor · Finance Hub · Medical Tourism | ✅ |
 | 07 | Okhaldhunga | Hill | Specialty coffee · citrus · small hydro | 🔄 |
 | 08 | Panchthar | Hill | Cardamom · tea · niche coffee | 🔄 |
 | 09 | Sankhuwasabha | Mountain | Arun hydro · eco-tourism · herbs | 🔄 |
